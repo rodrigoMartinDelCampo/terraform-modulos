@@ -1,0 +1,5 @@
+# Solo para pruebas locales. En HCP Terraform estos valores van en Variables del workspace.
+account_id       = "TU_ACCOUNT_ID"
+api_token        = "TU_TOKEN"
+worker_name      = "practica11-worker"
+d1_database_name = "practica11-db"
