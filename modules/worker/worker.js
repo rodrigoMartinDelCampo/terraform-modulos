@@ -18,7 +18,7 @@ export default {
 
     return Response.json({
       ok: true,
-      message: "Worker funcionando con D1",
+      message: "Worker funcionando con D1 y modulos",
       visitas: count?.total ?? 0,
       url: request.url,
     });
